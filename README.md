@@ -3,8 +3,8 @@ A collection of Bitwig Studio 2.x presets
 
 ## Info
 These are all presets I submitted to the monthly preset competition + a few more that are a bit smaller. If you have questions or ideas for improvements, don´t hesitate to ask me. You can find me on the Bitwig Community Discord, im almost always online (. Leo .).
-These are intended for beginners and medioker users that want more/different sounds. 
-So if you make music with them, ill be happy if you let me know. Im interested in what you created!
+These are intended for beginner and mediocre users that want more (different) sounds. 
+If you make music with them, I´ll be happy if you let me know. Im interested in what you created!
 
 
 ## Synths (FM-4/Phase-4/Polysynth)
