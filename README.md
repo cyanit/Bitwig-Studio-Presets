@@ -2,7 +2,7 @@
 A collection of Bitwig Studio 2.x presets
 
 ## Info
-These are all Presets I submitted to the monthly preset competition + a few more that are a bit smaller. If you have questions or ideas for improvements, don´t hesitate to ask me. You can find me on the Bitwig Community Discord, im almost always online.
+These are all presets I submitted to the monthly preset competition + a few more that are a bit smaller. If you have questions or ideas for improvements, don´t hesitate to ask me. You can find me on the Bitwig Community Discord, im almost always online (. Leo .).
 These are intended for beginners and medioker users that want more/different sounds. 
 So if you make music with them, ill be happy if you let me know. Im interested in what you created!
 
