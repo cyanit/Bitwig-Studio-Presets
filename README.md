@@ -7,6 +7,7 @@ These are intended for beginner and mediocre users that want more (different) so
 If you make music with them, I´ll be happy if you let me know. Im interested in what you created!
 
 
+
 ## Synths (FM-4/Phase-4/Polysynth)
 ### Broken Operator (FM-4)
 A fat, broken, brassy FM sound.
@@ -36,7 +37,8 @@ A big, spacious synth that can do lush chords, quick stabs and bright plucks. US
 NO need AT ALL for a description. Saw -> Reverb = Nice
 
 
-## FX
+
+## Audio Effects
 ### Adaptive Sub-Cleaner
 An EQ that adjust itself based on a keytrack modulator. Nice if you are lazy and want to eq some unneeded shit out.
 
@@ -45,3 +47,7 @@ An Ambinace Preset for the Reverb
 
 ### Amp Mk. 1
 A little weird Guitar Amp I built.
+
+## Note Effects
+### Randomized Arp
+Does what it sais. It´s a randomized arp.
