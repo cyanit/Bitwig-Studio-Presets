@@ -1,5 +1,5 @@
 # Bitwig-Studio-Presets
-A collection of Bitwig Studio 2.x presets
+A collection of Bitwig Studio 2.x presets I made. Have fun!
 
 ## Info
 These are all presets I submitted to the monthly preset competition + a few more that are a bit smaller. If you have questions or ideas for improvements, don´t hesitate to ask me. You can find me on the Bitwig Community Discord, im almost always online (. Leo .).
