@@ -33,6 +33,9 @@ Simple unison saw with an LFO on the filter. Make a chord progresseion and autom
 ### Phoenix-8
 A big, spacious synth that can do lush chords, quick stabs and bright plucks. USE THE SPACE KNOB!
 
+### Polysynth v2 (Init)
+A DIY synth. The idea is to have something to sketch out ideas fast. This synth evolved into a seperate Reaktor ensemble which will Ill release around cristmas. Stay tuned...
+
 ### Space Saw
 NO need AT ALL for a description. Saw -> Reverb = Nice
 
