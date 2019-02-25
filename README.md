@@ -3,10 +3,10 @@ A collection of Bitwig Studio 2.x presets I made. Have fun!
 Also avalible here: https://gum.co/bitwig-studio-presets
 
 ## Info
-These are all presets I submitted to the monthly preset competition + a few more that are a bit smaller. If you have questions or ideas for improvements, don´t hesitate to ask me. You can find me on the Bitwig Community Discord, im almost always online (. Leo .).
+These are all presets I submitted to the monthly preset competition + a few more that are a bit smaller. If you have questions or ideas for improvements, don´t hesitate to ask me. You can find me on the Bitwig Community Discord, im almost always online (Leo).
 These are intended for beginner and mediocre users that want more (different) sounds. 
 If you make music with them, I´ll be happy if you let me know. Im interested in what you created!
-
+Compatibility info: Depending on their age, they require v2.2, v2.3 or v2.4 and upwards.
 
 
 ## Synths (FM-4/Phase-4/Polysynth)
@@ -35,7 +35,7 @@ Simple unison saw with an LFO on the filter. Make a chord progresseion and autom
 A big, spacious synth that can do lush chords, quick stabs and bright plucks. USE THE SPACE KNOB!
 
 ### Polysynth v2 (Init)
-A DIY synth. The idea is to have something to sketch out ideas fast. This synth evolved into a seperate Reaktor ensemble which will Ill release around cristmas. Stay tuned...
+A DIY synth. The idea is to have something to sketch out ideas fast.
 
 ### Space Saw
 NO need AT ALL for a description. Saw -> Reverb = Nice
