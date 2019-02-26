@@ -6,8 +6,9 @@ Also avalible as pay-what-you-want here: https://gum.co/bitwig-studio-presets
 These are all presets I submitted to the monthly preset competition + a few more that are a bit smaller. If you have questions or ideas for improvements, don´t hesitate to ask me. You can find me on the Bitwig Community Discord, im almost always online (Leo).
 These are intended for beginner and mediocre users that want more (different) sounds. 
 If you make music with them, I´ll be happy if you let me know. Im interested in what you created!
-Compatibility info: Depending on their age, they require v2.2, v2.3 or v2.4 and upwards.
-
+## Compatibility
+Depending on their age, they require v2.2, v2.3 or v2.4 and upwards.
+Some Include an Instance of OrilRiver, whic h is an awsome free plugin. 
 
 ## Synths (FM-4/Phase-4/Polysynth)
 ### Broken Operator (FM-4)
@@ -55,3 +56,4 @@ A little weird Guitar Amp I built.
 ## Note Effects
 ### Randomized Arp
 Does what it sais. It´s a randomized arp.
+There is an extended version avalible as part of a utilities pack.
