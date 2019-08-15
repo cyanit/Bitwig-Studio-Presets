@@ -65,6 +65,6 @@ There is an extended version avalible as part of a utilities pack.
 
 ## Tagged VSTs
 ### OrilRiver
-**Developer:** Denis Tihanov
-**Price:** free!
+**Developer:** Denis Tihanov   
+**Price:** free!   
 All current OrilRiver stock presets tagged. 
