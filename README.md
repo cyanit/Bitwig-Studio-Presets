@@ -8,7 +8,7 @@ These are intended for beginner and mediocre users that want more (different) so
 If you make music with them, I´ll be happy if you let me know. Im interested in what you created!
 
 ### Changes
-NEW: I tagged some VST stock presets and decided to dump them here as well.
+NEW: I tagged some VST stock presets and decided to dump them here as well.    
 NEW: Starting point for Granular Synthesis: try the (a)Tonal Grain Presets
 
 ### Compatibility
