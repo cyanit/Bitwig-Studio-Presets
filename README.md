@@ -9,6 +9,7 @@ If you make music with them, I´ll be happy if you let me know. Im interested in
 
 ### Changes
 NEW: I tagged some VST stock presets and decided to dump them here as well.
+NEW: Starting point for Granular Synthesis: try the (a)Tonal Grain Presets
 
 ### Compatibility
 Depending on their age, they require v2.2, v2.3 or v2.4 and upwards.
@@ -45,6 +46,9 @@ A DIY synth. The idea is to have something to sketch out ideas fast.
 
 #### Space Saw
 NO need AT ALL for a description. Saw -> Reverb = Nice
+
+#### Tonal / aTonal Grain
+Some Macros and a sample to have fun with granular synthesis. Just drop in some own samples and record while you play (ideally on an mpe device or your touchscreen). aTonal Grain uses pitch to shift the position of the playhead(s), not repitch the sample.
 
 
 
