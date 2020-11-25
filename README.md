@@ -1,6 +1,6 @@
 # Bitwig-Studio-Presets
-A collection of Bitwig Studio 2.x presets I made. Have fun!
-If youd like to tip me for my work, heres an option: patreon.com/cyanit
+A collection of Bitwig Studio presets I made. Have fun!
+
 
 ## Info
 These are all presets I submitted to the monthly preset competition + a few more that are a bit smaller. If you have questions or ideas for improvements, don´t hesitate to ask me. You can find me on the Bitwig Community Discord, im almost always online (Leo).
@@ -8,13 +8,20 @@ These are intended for beginner and mediocre users that want more (different) so
 If you make music with them, I´ll be happy if you let me know. Im interested in what you created!
 
 ### Changes
-NEW: I tagged some VST stock presets and decided to dump them here as well.    
-NEW: Starting point for Granular Synthesis: try the (a)Tonal Grain Presets
+**2020**   
+NEW: I tagged the multi-effect VST "Glitch 2"     
+NEW: Starting point for Granular Synthesis: try the (a)Tonal Grain Presets   
+
+**2019**   
+NEW: I tagged the reverb VST "OrilRiver"
+ADDED some presets
 
 ### Compatibility
 Depending on their age, they require v2.2, v2.3 or v2.4 and upwards.
 Some Include an Instance of OrilRiver, whic h is an awsome free plugin. 
-
+   
+   ---------
+   
 ## Original Content
 ### Synths (FM-4/Phase-4/Polysynth)
 #### Broken Operator (FM-4)
@@ -72,3 +79,8 @@ There is an extended version avalible as part of a utilities pack.
 **Developer:** Denis Tihanov   
 **Price:** free!   
 All current OrilRiver stock presets tagged. 
+
+### Glitch v2
+**Developer:** illformed  
+**Price:** 50 EUR   
+All current Glitch 2 stock preset banks tagged. 
