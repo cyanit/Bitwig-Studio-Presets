@@ -17,8 +17,9 @@ NEW: I tagged the reverb VST "OrilRiver"
 ADDED some presets
 
 ### Compatibility
-Depending on their age, they require v2.2, v2.3 or v2.4 and upwards.
-Some Include an Instance of OrilRiver, whic h is an awsome free plugin. 
+Depending on their age, they require v2.2 and upwards.
+Some include an instance of OrilRiver, which is an awsome free plugin. 
+2020+ need v3.0 to 3.2
    
    ---------
    
